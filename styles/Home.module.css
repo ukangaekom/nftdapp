@@ -1,0 +1,10 @@
+.container {
+  background: #1F1F1F;
+  max-width:100%;
+  min-height: 100vh;
+
+}
+.wallet-adapter-button-trigger {
+  background-color: #833BBE;
+  
+}
